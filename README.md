@@ -9,7 +9,7 @@ I'm a software engineer passionate about all things Unreal, Unity, C#, XR, and g
 
 [<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website / Resume](https://www.silentstalwart.com)
 
-[<img align="left" width="22px" src="https://www.flaticon.com/free-icon/artstation_5968654"/>Artstation / Artwork]([https://www.silentstalwart.com](https://www.artstation.com/lordtommy33))
+[<img align="left" width="22px" src="https://seeklogo.com/images/A/artstation-logo-5765B1C358-seeklogo.com.png"/>Artstation / Artwork]([https://www.silentstalwart.com](https://www.artstation.com/lordtommy33))
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
