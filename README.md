@@ -7,15 +7,15 @@ I'm a software engineer passionate about all things Unreal, Unity, C#, XR, and g
 
 [<img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>Linkedin](https://www.linkedin.com/in/thomas-wilkinson-5928bb100/)
 
-[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website/Resume](https://www.silentstalwart.com)
+[<img align="left" width="22px" src="http://samuelarminana.com/favicon.ico"/>Website / Resume](https://www.silentstalwart.com)
+
+[<img align="left" width="22px" src="https://www.flaticon.com/free-icon/artstation_5968654"/>Artstation / Artwork]([https://www.silentstalwart.com](https://www.artstation.com/lordtommy33))
 
 ### 📝 Check out my latest blog posts,
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Grabbable Objects in VR](https://medium.com/@devanjpmorgan/setting-up-grabbable-objects-452c50fc4b70)
-- [Hand Animations in VR](https://medium.com/@devanjpmorgan/basic-hand-animations-be24aaaad61c)
-- [Audio in 3D](https://medium.com/@devanjpmorgan/sound-in-3d-84bd09cdf1e6)
-- [Two Handed VR Interactions](https://medium.com/@devanjpmorgan/grabbing-the-vr-world-with-both-hands-74890b7960f2)
-- [Camera Shake System](https://medium.com/@devanjpmorgan/creating-camera-shake-c4bc29243cd3)
+- [Character Creation and Animation]([https://medium.com/@devanjpmorgan/setting-up-grabbable-objects-452c50fc4b70](https://wordpress.com/post/silentstalwart.com/1539))
+- [A.I. in Games]([https://medium.com/@devanjpmorgan/basic-hand-animations-be24aaaad61c](https://wordpress.com/post/silentstalwart.com/209))
+
 <!-- BLOG-POST-LIST:END -->
 View more on my [website](https://www.silentstalwart.com)
 
