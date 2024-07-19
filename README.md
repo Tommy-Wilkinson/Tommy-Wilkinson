@@ -30,51 +30,8 @@ View more on my [website](https://www.silentstalwart.com)
 
 <img src="https://silentstalwart.com/wp-content/uploads/2024/02/Trauma_Team_sculptori-Copy-1024x576.png" align="left" width="400px" height="250px"/> 
 
-# Level Design Castle Room
-Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-
-<img src="https://i.imgur.com/Au2OYDo.png" align="left" width="400px" height="250px"/> 
-
-# AR Prototype
-Designed and deployed an AR application using Unity and the XRI Interaction Toolkit, demonstrating practical application of AR technology in real-world scenarios
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-<img src="https://i.imgur.com/H3XSt6B.png" align="left" width="400px" height="250px"/> 
-
-# VR Escape Room
-This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-
-<img src="https://i.imgur.com/PeMVayu.png" align="left" width="400px" height="250px"/> 
-
-# VR Pentathlon
-This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity XR Interaction Toolkit.
+# Trauma Team sculpt
+Sculpting a memeber of Trauma Team from Cyberpunk 2077.
 
 <br/>
 <br/>
@@ -87,23 +44,11 @@ This Virtual Reality Escape Room, developed for the Meta Quest 2 using the Unity
 
 
 
-<img src="https://i.imgur.com/Poycj12.png" align="left" width="400px" height="250px"/> 
+<img src="https://i0.wp.com/silentstalwart.com/wp-content/uploads/2023/09/ar-15_test_render7.png?resize=1200%2C675&ssl=1" align="left" width="400px" height="250px"/> 
 
-# Level Design - Office Environment
-Advanced HDRP Techniques: Utilizes Unity's HDRP for high-definition visuals, incorporating screen space reflections, URP & HDRP lit shaders, and a variety of lighting techniques (baked, mixed, realtime) to create lifelike scenes.
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+# AR Prototype model
+Designed and modeled an AR style rifle model in Blender
 
-
-
-<img src="https://i.imgur.com/w1VeECZ.png" align="left" width="400px" height="250px"/> 
-
-# Level Design - Sci-fi Control Room
-Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, light probes, and procedural skyboxes to enhance environmental depth and realism.<br/>
 <br/>
 <br/>
 <br/>
@@ -112,14 +57,18 @@ Dynamic Lighting and Atmosphere: Features volumetric lights, reflection probes, 
 
 
 
-<img src="https://i.imgur.com/fNA9SEk.png" align="left" width="400px" height="250px"/> 
+<img src="https://i0.wp.com/silentstalwart.com/wp-content/uploads/2023/11/tbrender_Viewport_009.png?resize=1200%2C823&ssl=1" align="left" width="400px" height="250px"/> 
 
-# Space Shooter Pro
-"Galaxy Shooter" showcases my journey into game development through a solo-created 2D top-down shooter, emphasizing elegant simplicity and dynamic gameplay features using the Unity Game Engine
+# Alien Sculpt
+Humanoid Alien sculpt in Blender
+
 <br/>
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 
 
