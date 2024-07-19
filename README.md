@@ -22,10 +22,9 @@ View more on my [website](https://www.silentstalwart.com)
 ### Languages and Tools:
 
 <p align="left"> 
-
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/U/unreal-engine-logo-12B9A1D996-seeklogo.com.png" alt="unreal engine" width="40" height="40"/> </a> </p>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png" alt="blender" width="40" height="40"/> </a> 
+<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/U/unreal-engine-logo-12B9A1D996-seeklogo.com.png" alt="unreal engine" width="40" height="40"/> </a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+<a href="https://www.blender.org" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/blender-icon.png" alt="blender" width="40" height="40"/> </a> </p>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
