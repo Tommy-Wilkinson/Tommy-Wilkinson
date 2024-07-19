@@ -28,7 +28,7 @@ View more on my [website](https://www.silentstalwart.com)
 ---
 ### 💾 My projects
 
-<img src="https://www.artstation.com/artwork/8bqBPO" align="left" width="400px" height="250px"/> 
+<img src="blob:https://wordpress.com/bad78eac-c833-48c8-b613-560bc857278d" align="left" width="400px" height="250px"/> 
 
 # Level Design Castle Room
 Utilizes Unity's High Definition Render Pipeline (HDRP) to construct a visually striking spooky castle level.
